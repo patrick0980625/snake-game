@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Snake</title>
+    <link rel="stylesheet" href="style.css" />
+    <script type="text/javascript" src="script.js"></script>
+  </head>
+  <body id="body">
+    <h1>Snake</h1>
+    <h2>Score:<span id="score"></span></h2>
+    <h3>Best score:<span id="bestScore"></span></h3>
+    <div>
+      <canvas id="board"></canvas>
+    </div>
+    <div>
+      <button id="restart" onclick="restart()">Press R to restart</button>
+    </div>
+    <br />
+    <br />
+
+    <button id="buttons" onclick="showButton()">Show other Functions</button>
+    <br />
+    <br />
+    <br />
+    <div id="functions">
+      <div>
+        <button id="size" onclick="size()">Press C to change size</button>
+      </div>
+      <br />
+      <form>
+        <label for="row" id="rowLabel">Row:</label>
+        <input type="number" id="row" name="row" min="15" max="40" value="20" />
+        <label for="col" id="colLabel">Column:</label>
+        <input
+          type="number"
+          id="col"
+          name="column"
+          min="15"
+          max="40"
+          value="20"
+        />
+        <input type="submit" value="Submit" onsubmit="size()" id="submit" />
+      </form>
+      <br />
+      <div>
+        <button id="speed" onclick="Speed()">Press V to change speed</button>
+      </div>
+      <br />
+      <form>
+        <label for="changeSpeed" id="speedLabel">Change Speed:</label>
+        <input
+          id="changeSpeed"
+          type="range"
+          min="0.1"
+          max="2"
+          step="0.1"
+          value="1"
+          name="speed"
+        />
+        <output for="changeSpeed" id="changeSpeedOutput"></output>
+        <input
+          type="submit"
+          value="Submit"
+          onsubmit="setSpeed()"
+          id="submitSpeed"
+        />
+      </form>
+      <br />
+      <div>
+        <button id="edit" onclick="edit()">Press E to edit color</button>
+        <br />
+        <br />
+        <div id="editor">
+          <label for="background" id="backgroundLabel">Background color:</label>
+          <input
+            type="color"
+            id="background"
+            value="#90EE90"
+            onchange="changeBackground()"
+          />
+          <label for="snake" id="snakeLabel">Snake color:</label>
+          <input
+            type="color"
+            id="snake"
+            value="#11D76A"
+            onchange="changeSnake()"
+          />
+          <label for="food" id="foodLabel">Food color:</label>
+          <input
+            type="color"
+            id="food"
+            value="#DD2222"
+            onchange="changeFood()"
+          />
+          <br />
+          <br id="br1" />
+          <input
+            type="button"
+            onclick="random()"
+            id="random"
+            value="Press G to randomize"
+          />
+        </div>
+      </div>
+      <br id="br2" />
+    </div>
+  </body>
+</html>
