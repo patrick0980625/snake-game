@@ -24,7 +24,7 @@
 -   CSS3
 -   JavaScript ES6
 
-##貢獻
+## 貢獻
 
 如果你發現任何問題或有改進建議，歡迎提交 issue 或 pull request。
 
