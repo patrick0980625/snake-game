@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  background-color: #eeeeee;
+}
+
+body {
+  font-family: "Helvetica Neue", "Arial", "PingFang TC", "Microsoft JhengHei", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Georgia", "Times New Roman", "PingFang TC", "Microsoft JhengHei", serif;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  position: relative;
+  padding-left: 20px;
+}
+
+li::before {
+  content: "- ";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: bold;
+}
+
+nav {
+  padding-bottom: 0.2em;
+  font-size: 1em;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 10%;
+  height: auto;
+}
+
+h1 {
+  font-size: 4em;
+  padding-bottom: 0;
+  margin: 0;
+}
+
+h2 {
+  font-size: 3em;
+  margin: 0;
+}
+
+h3 {
+  padding: 0.1em;
+  margin: 0;
+  font-size: 1.5em;
+}
+
+article {
+  font-size: 18px;
+}
+
+mark {
+  background: #ff0;
+}
