@@ -5,46 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e55167aa-ddde-498d-814b-7aa091bcc0a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/c#.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/c++.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/golang.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/javascript.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/python.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../library.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/prettier.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/solar system.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/prettier.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/DM.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/FL.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/FR.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/GE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/IT.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/PL.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/RS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/SP.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/UK.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +14,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -75,24 +38,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/patri/node_modules/prettier&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\patri\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/patri/node_modules/prettier",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\patri\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -107,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762963144423</updated>
-      <workItem from="1762963146155" duration="955000" />
+      <workItem from="1762963146155" duration="2030000" />
     </task>
     <servers />
   </component>
