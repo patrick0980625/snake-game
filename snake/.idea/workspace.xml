@@ -4,47 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e55167aa-ddde-498d-814b-7aa091bcc0a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/c#.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/c++.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/golang.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/javascript.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imagine/python.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../library.js" beforeDir="false" />
+    <list default="true" id="80dc9f93-90cf-4b14-8978-8f50684e700f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025_11_13__12_34__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025_11_13_上午_12_34_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/prettier.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/solar system.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solar system/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/prettier.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/DM.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/FL.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/FR.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/GE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/IT.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/PL.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/RS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/SP.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/image/UK.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,47 +15,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;patrick0980625&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "patrick0980625"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/patrick0980625/snake-game.git&quot;,
-    &quot;accountId&quot;: &quot;925f2b4a-c3a0-4857-9825-4735073bcb50&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/patrick0980625/snake-game.git",
+    "accountId": "925f2b4a-c3a0-4857-9825-4735073bcb50"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="35Nv3Ot03ugCuPYlDA1bUusJksW" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="35O3uAJ5AL4JuxvOFq9oF0b30pY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/patri/node_modules/prettier&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\patri\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -102,27 +60,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e55167aa-ddde-498d-814b-7aa091bcc0a5" name="Changes" comment="" />
-      <created>1762963144423</created>
+      <changelist id="80dc9f93-90cf-4b14-8978-8f50684e700f" name="Changes" comment="" />
+      <created>1762967512067</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1762963144423</updated>
-      <workItem from="1762963146155" duration="955000" />
+      <updated>1762967512067</updated>
+      <workItem from="1762967513882" duration="915000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
