@@ -157,6 +157,11 @@ const update = () => {
 const placeFood = () => {
   foodX = Math.floor(Math.random() * cols) * blockSize;
   foodY = Math.floor(Math.random() * rows) * blockSize;
+  for (let i = 0; i < snake.length; i++) {
+    if (foodX === snake[i][0] && foodY === snake[i][1]) {
+      placeFood();
+    }
+  }
 };
 
 const moveSnake = (e) => {

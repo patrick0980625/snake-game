@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e55167aa-ddde-498d-814b-7aa091bcc0a5" name="Changes" comment="test" />
+    <list default="true" id="80dc9f93-90cf-4b14-8978-8f50684e700f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagine/c#.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagine/c++.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagine/c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagine/golang.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagine/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagine/javascript.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagine/python.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025_11_13__12_34__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025_11_13_上午_12_34_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/image/DM.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/image/FL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/image/FR.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/image/GE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/image/IT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/image/PL.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/image/RS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/image/SP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/image/UK.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/style.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +47,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -27,75 +62,58 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 6
+  &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="35Nv3Ot03ugCuPYlDA1bUusJksW" />
+  <component name="ProjectId" id="35O3uAJ5AL4JuxvOFq9oF0b30pY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "JavaScript Debug.index.html.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/patri/node_modules/prettier",
-    "node.js.detected.package.tslint": "true",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/patri/OneDrive/桌面/程式/html、js、css/snake",
+    "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\patri\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "configurable.group.editor",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\patri\\OneDrive\\桌面\\程式\\html、js、css\\snake\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/style.css/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-WS-253.28294.253" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e55167aa-ddde-498d-814b-7aa091bcc0a5" name="Changes" comment="" />
-      <created>1762963144423</created>
+      <changelist id="80dc9f93-90cf-4b14-8978-8f50684e700f" name="Changes" comment="" />
+      <created>1762967512067</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1762963144423</updated>
-      <workItem from="1762963146155" duration="2749000" />
+      <updated>1762967512067</updated>
+      <workItem from="1762967513882" duration="915000" />
+      <workItem from="1765117076862" duration="234000" />
+      <workItem from="1765117313944" duration="471000" />
     </task>
-    <task id="LOCAL-00001" summary="test">
-      <option name="closed" value="true" />
-      <created>1762965367623</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1762965367623</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>

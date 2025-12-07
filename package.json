@@ -1,0 +1,23 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "一個使用HTML、JavaScript、Css製作的簡易貪吃蛇遊戲。",
+  "homepage": "https://github.com/patrick0980625/snake-game#readme",
+  "bugs": {
+    "url": "https://github.com/patrick0980625/snake-game/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrick0980625/snake-game.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
+}
